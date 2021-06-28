@@ -1,0 +1,9 @@
+name: CrashPlayer
+main: me.pp021.crashplayer.Main
+version: 1.0
+author: pp021
+description: rekt some player client
+
+commands:
+   crash:
+   
