@@ -36,7 +36,7 @@ public class Crash implements CommandExecutor {
 	}
 
 	/**
-	 * im trying to use the java reflection but idk how to get enum
+	 * im trying to use the java reflection but idk how to get enum you can remove it
 	 * 
 	 */
 
